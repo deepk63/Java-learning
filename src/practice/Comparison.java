@@ -1,3 +1,5 @@
+package practice;
+
 public class Comparison {
 
     public static void main(String[] args) {
