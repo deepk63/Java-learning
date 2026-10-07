@@ -1,4 +1,4 @@
-package Oct03;
+package oct03;
 
 public class Employee {
     String name;

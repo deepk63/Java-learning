@@ -1,4 +1,4 @@
-package Oct03;
+package oct03;
 
 public class ProductMain {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Sept29;
+package sept29;
 
 public class Main {
 
