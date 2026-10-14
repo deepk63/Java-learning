@@ -1,4 +1,4 @@
-package exercise;
+package homework.exercise1;
 
 public class Light {
 

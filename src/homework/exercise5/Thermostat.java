@@ -1,4 +1,4 @@
-package exercise;
+package homework.exercise5;
 
 public class Thermostat {
     int currentTemperature = 20;

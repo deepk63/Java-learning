@@ -1,4 +1,4 @@
-package exercise;
+package homework.exercise6;
 
 public class Product {
     String name;

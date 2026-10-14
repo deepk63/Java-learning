@@ -1,4 +1,4 @@
-package exercise;
+package homework.exercise4;
 
 public class BankAccount {
     double balance = 150.50;

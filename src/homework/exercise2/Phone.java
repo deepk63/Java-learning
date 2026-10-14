@@ -1,4 +1,4 @@
-package exercise;
+package homework.exercise2;
 
 public class Phone {
     String brand;

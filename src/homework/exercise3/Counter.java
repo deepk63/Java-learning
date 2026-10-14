@@ -1,4 +1,4 @@
-package exercise;
+package homework.exercise3;
 
 public class Counter {
     int count;

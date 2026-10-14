@@ -1,4 +1,4 @@
-package exercise;
+package homework.exercise7;
 
 public class Hero {
     String name;
