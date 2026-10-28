@@ -15,7 +15,7 @@ public class StringPractice {
             reverse = reverse + s.charAt(i);
         }
 
-        System.out.println(reverse);
+        System.out.println("Reversed: " + reverse);
 
         if (s.equalsIgnoreCase(reverse)) {
             System.out.println("Palindrome: Yes");
